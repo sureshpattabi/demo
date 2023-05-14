@@ -1,0 +1,5 @@
+Need to add ssh key to the github for the automatic authentication of the github when pull and clone if it is private repo`
+
+Added ssh key to the github to not ask the authentication all the time when push and pull
+
+Added a remote repo url as ssh repo url not https url 
