@@ -1,5 +1,5 @@
 pipeline {
-    agent any {
+    agent any
     }
    stages {
        stage('Checking os-version'){
@@ -8,4 +8,3 @@ pipeline {
              }
           }
        }    
-    }   
